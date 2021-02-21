@@ -1,3 +1,6 @@
+dos2unix:
+	dos2unix run_test.sh
+
 build:
 	docker build -t pup .
 
